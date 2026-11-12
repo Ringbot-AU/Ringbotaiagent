@@ -12,7 +12,7 @@ The platform is designed for **small and mid-sized businesses**, growing sales t
 
 With a focus on reliability, scalability, and responsible AI, Ringbot is committed to democratizing voice automation and making intelligent voice agents accessible to businesses of all sizes.
 
-**Official website:** [https://ringbot.au](https://ringbot.au)
+**Official website:** [https://ringbot.ai](https://ringbot.ai)
 
 ---
 
@@ -33,4 +33,4 @@ Ringbot is designed so teams don’t need long setup cycles or complex infrastru
 
 The platform is built for small and mid-sized businesses, sales teams, and modern call centers that want to automate conversations efficiently while keeping a human-like experience.
 
-**Learn more:** [https://ringbot.au](https://ringbot.au)
+**Learn more:** [[https://ringbot.ai](https://ringbot.ai/docs)]
